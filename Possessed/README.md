@@ -10,4 +10,4 @@ https://itch.io/jam/brackeys-2/rate/374909
 
 Original - original source code for the playable game
 
-Updated - updated source code to be 'like it should be' a.k.a. more clean version, because the original is made in a rush (only 7 days)
+Updated - updated the source code to be more clean, because the original was made in a rush/limited to 7 days
