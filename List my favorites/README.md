@@ -45,15 +45,15 @@ Favorite Indonesian band(s) : J-Rocks, Vierra
 
 Favorite Indonesian song(s) : Andra & The Backbone - Lagi Dan Lagi, J-Rocks - Kuingin Kau Untukku, Vierra - Seandainya, Cherrybelle - Love Is You, Vierra - Kesepian
 
-Favorite K-Pop Group : GFRIEND, Red Velvet
+Favorite K-Pop Group(s) : GFRIEND, Red Velvet
 
-Favorite K-Pop Idol : Seulgi (Red Velvet), V (BTS)
+Favorite K-Pop Idol(s) : Seulgi (Red Velvet), V (BTS)
 
 Favorite K-Pop Song(s) : GFRIEND - Sunrise, BLACKPINK - Playing With Fire, BLACKPINK - As If It's Your Last, TWICE - What Is Love, Red Velvet - Peek-A-Boo, BTS - Blood Sweat & Tears -- (just found out that K-Pop turned out to be very addicting)
 
-Favorite AKB48 Idol : Shimazaki Haruka
+Favorite AKB48 Idol(s) : Shimazaki Haruka (former)
 
-Favorite AKB48 Song : Iiwake Maybe, Ponytail To Shushu
+Favorite AKB48 Song(s) : Iiwake Maybe, Ponytail To Shushu
 
 # Anime
 Favorite anime(s) : Fate/Zero, Guilty Crown
