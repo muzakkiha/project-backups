@@ -1,1 +1,3 @@
-# MNK Game Generator project backup
+# MNK Game Generator
+
+Python game for Foundations of Programming.
