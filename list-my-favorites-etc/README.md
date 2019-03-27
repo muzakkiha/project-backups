@@ -58,7 +58,7 @@ Favorite AKB48 Song : Iiwake Maybe, Ponytail To Shushu
 # Anime
 Favorite anime(s) : Fate/Zero, Guilty Crown
 
-Favorite anime song(s) : Never End Tale - Tatsuyuki Kobayashi & Konomi Suzuki (Fairy Tail OP 20), Styx Helix - Myth & Roid (Re:Zero ED 1), Startear - Luna Haruna (SAO II ED 1)
+Favorite anime song(s) : Never End Tale - Tatsuyuki Kobayashi & Konomi Suzuki (Fairy Tail OP 20), Styx Helix - Myth & Roid (Re:Zero ED 1), Startear - Luna Haruna (SAO II ED 1) -- (the truth is, there are soooo many great anime songs out there, but I decided to pick just the top three for this list)
 
 Favorite anime character(s) : Sting (Fairy Tail), Juvia (Fairy Tail), Inori Yuzuriha (Guilty Crown)
 
