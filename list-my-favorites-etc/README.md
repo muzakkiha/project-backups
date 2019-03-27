@@ -1,4 +1,4 @@
-# Favorites, etc
+# Favorites
 To be written on my personal website when I had time to work on it. The lists is in random order, because I will have a really hard time when choosing fewer and ordering them. This is 100% my honest opinion based on everything I've experienced so far.
 
 # Game
