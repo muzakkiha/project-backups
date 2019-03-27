@@ -37,7 +37,7 @@ Favorite guitar riff(s) : Arch Enemy - Enemy Within, A7X - Unholy Confessions, I
 
 Favorite guitar solo(s) : A7X - MIA, Galneryus - Raise My Sword
 
-Favorite rock band(s) : Muse
+Favorite rock band(s) : Muse, Green Day
 
 Favorite rock song(s) : Muse - Map Of The Problematique, Van Halen - Jump, My Chemical Romance - The Only Hope For Me Is You, Arctic Monkeys - Mardy Bum, The Strokes - Last Nite, Muse - Dead Inside
 
