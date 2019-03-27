@@ -51,7 +51,7 @@ Favorite K-Pop Idol(s) : Seulgi (Red Velvet), V (BTS)
 
 Favorite K-Pop Song(s) : GFRIEND - Sunrise, BLACKPINK - Playing With Fire, BLACKPINK - As If It's Your Last, TWICE - What Is Love, Red Velvet - Peek-A-Boo, BTS - Blood Sweat & Tears -- (just found out that K-Pop turned out to be very addicting)
 
-Favorite AKB48 Idol(s) : Shimazaki Haruka (former)
+Favorite AKB48 Idol(s) : Shimazaki Haruka (former), Kojima Haruna (former)
 
 Favorite AKB48 Song(s) : Iiwake Maybe, Ponytail To Shushu
 
