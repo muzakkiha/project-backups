@@ -35,7 +35,7 @@ Favorite japanese metal song(s) : Cross Vein - Brilliant Star, Jupiter - Theory 
 
 Favorite guitar riff(s) : Arch Enemy - Enemy Within, A7X - Unholy Confessions, In Flames - Jotun
 
-Favorite guitar solo(s) : A7X - MIA, Galneryus - Raise My Sword
+Favorite guitar solo(s) : A7X - MIA, Galneryus - Raise My Sword (I think every A7X solo is exceptionally great, but I will just put the best (MIA) here)
 
 Favorite rock band(s) : Muse, Green Day
 
