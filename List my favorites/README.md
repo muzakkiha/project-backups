@@ -63,7 +63,7 @@ Favorite anime song(s) : Never End Tale - Tatsuyuki Kobayashi & Konomi Suzuki (F
 Favorite anime character(s) : Sting (Fairy Tail), Juvia (Fairy Tail), Inori Yuzuriha (Guilty Crown)
 
 # General
-Favorite food(s) : Nasi Goreng Kornet
+Favorite food(s) : Corned beef fried rice
 
 Favorite fruit(s) : Apple, Watermelon
 
