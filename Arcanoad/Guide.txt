@@ -1,0 +1,22 @@
+*mari belajar bahasa inggris*
+
+To win the game, you must clear all the bricks and any remaining collectibles (coins and power ups) from the screen, and do not let the blue ball touch the dead zone.
+
+Scoring a point:
+- Destroying a brick +5
+- Destroying a brick with fireball +9
+- Gold Coin +15
+- Silver Coin +9
+- Fireball/Fire Power Up +7
+  > launch fireball from the paddle that destroyed after doing splash attack when it hits a brick, fireball only last 1.5s, you get higher score when destroying a brick with it
+- Paddle Up/Green Power Up +7 
+  > makes the paddle wider by 75% for 8s
+- Rage/Red Power Up +7
+  slows down everything by 30% (also affects other power up duration which makes it last longer) except the paddle for 6s
+- Red/Bad Coin -15
+- Win the game +25
+
+Tips:
+- the surface of the paddle determines the ball angle, getting the ball into the edge of the paddle will increase the ball angle when it bounce,
+  while getting into the middle will make the ball go straight, this works on fireball power up too
+- paddle up and rage power up won't spawn if, for each type of power up, there are currently one available in the arena or when it is active

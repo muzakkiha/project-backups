@@ -1,0 +1,4 @@
+Salah satu fitur yang saya tambah di game adalah gravitasi pada bola, koin, dan sedikit pada power up agar game lebih menarik sekaligus membuat efek trail bola menjadi lebih keren.
+Ada juga beberapa power up dan jenis koin selebihnya bisa dilihat di file Guide.txt.
+Fitur permukaan paddle yang menentukan angle bola saat memantul juga tersedia, bola semakin ke pinggir paddle maka pantulannya semakin belok.
+Untuk particle saya menggunakan Standard Asset Example Project Unity, selain itu tidak meng-import dari asset lain.

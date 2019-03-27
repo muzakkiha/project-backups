@@ -1,0 +1,21 @@
+Fitur tambahan:
+- Player digerakkan menggunakan keyboard wasd(membatasi juga pergerakan agar tidak keluar arena) maupun klik mouse
+
+- Adanya karakter 'trap', yang dimana jika player bergerak menyentuh karakter tersebut, maka akan langsung dinyatakan lose
+
+- Setelah bar target penuh, harus menunggu 5 detik untuk bisa mengisi kembali bar target
+
+- Ada 1/5 kemungkinan setelah bar target penuh, maka target akan pergi meninggalkan arena permainan (agar tidak grinding dengan target yang itu itu saja)
+
+- Fitur restart game dengan menekan 'Space'
+
+- Background music yang saya buat sendiri menggunakan LMMS + Audacity(untuk merekam gitar)
+
+- Aset gambar background dan kirito(trap) didownload dari Google Images, aset font dari www.1001fonts.com
+
+Soal bonus:
+1. Score +5 jika berhasil mengisi penuh bar Eli, score +7 jika berhasil mengisi penuh bar Anya
+
+2. Setiap ada bar yang penuh, timer akan bertambah 3 detik
+
+3. Win condition adalah ketika score mencapai 300
