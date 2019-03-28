@@ -6,7 +6,7 @@ Favorite game(s) : Ori And The Blind Forest, Kingdoms Of Amalur - Reckoning
 
 Favorite 2D game art/graphics(s) : Ori And The Blind Forest
 
-Favorite 3D game art/graphics(s) : The Witcher 3
+Favorite 3D game art/graphics(s) : The Witcher 3 (not actually playing the game, just watching from YouTube)
 
 Favorite game world/map(s) : The Faelands (Kingdoms Of Amalur)
 
