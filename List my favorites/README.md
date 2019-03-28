@@ -31,7 +31,7 @@ Favorite metal YouTuber(s) : Charlie Parra Del Riego
 
 Favorite metal song(s) : DragonForce - Black Winter Night, A7X - MIA, Norther - A Fallen Star, In Flames - Jotun, Arch Enemy - Enemy Within
 
-Favorite japanese metal song(s) : Cross Vein - Brilliant Star, Jupiter - Theory Of Evolution
+Favorite japanese metal song(s) : Cross Vein - Brilliant Star, Jupiter - Theory Of Evolution, Tears Of Tragedy - Void Act
 
 Favorite guitar riff(s) : Arch Enemy - Enemy Within, A7X - Unholy Confessions, In Flames - Jotun
 
