@@ -43,7 +43,11 @@ Favorite guitar solo(s) : A7X - MIA, Galneryus - Raise My Sword (I think every A
 
 Favorite rock band(s) : Muse, Green Day
 
-Favorite rock song(s) : Muse - Map Of The Problematique, Van Halen - Jump, My Chemical Romance - The Only Hope For Me Is You, Arctic Monkeys - Mardy Bum, The Strokes - Last Nite, Muse - Dead Inside
+Favorite rock song(s) : Muse - Map Of The Problematique, My Chemical Romance - The Only Hope For Me Is You, Arctic Monkeys - Mardy Bum, Muse - Dead Inside, Weezer - Hash Pipe
+
+Favorite classic rock band(s) : Van Halen
+
+Favorite classic rock song(s) : Van Halen - Jump, Guns N' Roses - November Rain, The Police - Every Little Thing She Does Is Magic, Sting - Shape Of My Heart
 
 Favorite Indonesian band(s) : J-Rocks, Vierra
 
