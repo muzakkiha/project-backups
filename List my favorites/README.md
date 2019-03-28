@@ -76,3 +76,5 @@ Favorite taste(s) : Vanilla
 Favorite animal(s) : Butterfly
 
 Favorite color(s) : Grey-Blue
+
+Favorite superhero(es) : Human Torch (Fantastic Four), Nightcrawler (X-Men)
