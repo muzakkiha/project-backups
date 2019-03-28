@@ -6,6 +6,10 @@ Favorite game(s) : Ori And The Blind Forest, Kingdoms Of Amalur - Reckoning
 
 Favorite 2D game art/graphics(s) : Ori And The Blind Forest
 
+Favorite 3D game art/graphics(s) : The Witcher 3
+
+Favorite game world/map(s) : The Faelands (Kingdoms Of Amalur)
+
 Favorite game idea reference(s) : classic GameHouse games, DoTA 2 skills (you can get lots of ideas for a mechanic in a game just by looking at DoTA 2 hero's skills)
 
 Favorite game dev YouTuber(s) : Thomas Brush
