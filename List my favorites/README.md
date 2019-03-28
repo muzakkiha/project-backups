@@ -66,7 +66,7 @@ Favorite anime song(s) : Never End Tale - Tatsuyuki Kobayashi & Konomi Suzuki (F
 
 Favorite anime character(s) : Sting (Fairy Tail), Juvia (Fairy Tail), Inori Yuzuriha (Guilty Crown)
 
-# General
+# Miscellaneous
 Favorite food(s) : Corned beef fried rice
 
 Favorite fruit(s) : Apple, Watermelon
@@ -78,3 +78,5 @@ Favorite animal(s) : Butterfly
 Favorite color(s) : Grey-Blue
 
 Favorite superhero(es) : Human Torch (Fantastic Four), Nightcrawler (X-Men)
+
+Favorite dinosaur(s) : Allosaur
