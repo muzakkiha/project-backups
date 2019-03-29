@@ -22,6 +22,8 @@ Favorite RPG class(s) : Magic-based archer
 
 Favorite RPG spell(s) : Heal
 
+Favorite magic element(s) : Light
+
 Favorite place in RPG game(s) : Gothic-like castle
 
 Favorite FPS weapon(s) : Assault rifle
