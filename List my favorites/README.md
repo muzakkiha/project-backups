@@ -8,7 +8,7 @@ Favorite 2D game art/graphics(s) : Ori And The Blind Forest
 
 Favorite 3D game art/graphics(s) : The Witcher 3 (not actually playing the game, just watching from YouTube)
 
-Favorite game world/map(s) : The Faelands (Kingdoms Of Amalur)
+Favorite game world/map(s) : Shadow Of The Colossus's forbidden land
 
 Favorite game idea reference(s) : classic GameHouse games, DoTA 2 skills (you can get lots of ideas for a mechanic in a game just by looking at DoTA 2 hero's skills)
 
@@ -35,7 +35,7 @@ Favorite metal guitarist(s) : Synyster Gates (A7X), Herman Li/Sam Totman (Dragon
 
 Favorite metal YouTuber(s) : Charlie Parra Del Riego
 
-Favorite metal song(s) : DragonForce - Black Winter Night, A7X - MIA, Norther - A Fallen Star, In Flames - Jotun, Arch Enemy - Enemy Within
+Favorite metal song(s) : DragonForce - Black Winter Night, A7X - MIA, Norther - A Fallen Star, Megadeth - Addicted To Chaos, Arch Enemy - Enemy Within
 
 Favorite japanese metal song(s) : Cross Vein - Brilliant Star, Jupiter - Theory Of Evolution, Tears Of Tragedy - Void Act
 
@@ -59,7 +59,7 @@ Favorite K-Pop Group(s) : GFRIEND, Red Velvet
 
 Favorite K-Pop Idol(s) : Seulgi (Red Velvet), V (BTS)
 
-Favorite K-Pop Song(s) : GFRIEND - Sunrise, BLACKPINK - Playing With Fire, BLACKPINK - As If It's Your Last, TWICE - What Is Love, Red Velvet - Peek-A-Boo, BTS - Blood Sweat & Tears -- (just found out that K-Pop turned out to be very addicting)
+Favorite K-Pop Song(s) : GFRIEND - Sunrise, BLACKPINK - Playing With Fire, TWICE - Fancy, Red Velvet - Peek-A-Boo -- (just found out that K-Pop turned out to be very addicting)
 
 Favorite AKB48 Idol(s) : Shimazaki Haruka (former), Kojima Haruna (former)
 
