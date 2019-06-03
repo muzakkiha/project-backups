@@ -37,7 +37,7 @@ Favorite metal YouTuber(s) : Charlie Parra Del Riego
 
 Favorite metal song(s) : DragonForce - Black Winter Night, A7X - MIA, Norther - A Fallen Star, Megadeth - Addicted To Chaos, Arch Enemy - Enemy Within
 
-Favorite japanese metal song(s) : Cross Vein - Brilliant Star, Jupiter - Theory Of Evolution, Tears Of Tragedy - Void Act
+Favorite japanese metal song(s) : Cross Vein - Brilliant Star, Matenrou Opera - Pantheon Pt.2, Tears Of Tragedy - Void Act
 
 Favorite guitar riff(s) : Arch Enemy - Enemy Within, A7X - Unholy Confessions, In Flames - Jotun
 
@@ -57,7 +57,7 @@ Favorite Indonesian song(s) : Andra & The Backbone - Lagi Dan Lagi, J-Rocks - Ku
 
 Favorite K-Pop Group(s) : GFRIEND, Red Velvet
 
-Favorite K-Pop Idol(s) : Seulgi (Red Velvet), V (BTS)
+Favorite K-Pop Idol(s) : JiU (Dreamcatcher), Seulgi (Red Velvet), V (BTS)
 
 Favorite K-Pop Song(s) : GFRIEND - Sunrise, Dreamcatcher - Full Moon, TWICE - Fancy, Red Velvet - Peek-A-Boo -- (just found out that K-Pop turned out to be very addicting)
 
