@@ -1,4 +1,4 @@
-# just for fun
+# just for fun (2019)
 
 Trying out Unity to make some fancy smooth mechanics. However, behind the project was very dirty because I was just scratching the paper and only want to know how to apply the ideas.
 
