@@ -53,7 +53,7 @@ Favorite classic rock song(s) : Van Halen - Jump, Guns N' Roses - November Rain,
 
 Favorite Indonesian band(s) : J-Rocks, Vierra
 
-Favorite Indonesian song(s) : Andra & The Backbone - Lagi Dan Lagi, J-Rocks - Kuingin Kau Untukku, Vierra - Seandainya, Cherrybelle - Love Is You, Vierra - Kesepian
+Favorite Indonesian song(s) : Andra & The Backbone - Lagi Dan Lagi, Vierra - Seandainya, Cherrybelle - Love Is You, Vierra - Kesepian, Ratu - Dear Diary
 
 Favorite K-Pop Group(s) : GFRIEND, Red Velvet
 
