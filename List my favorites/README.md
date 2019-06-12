@@ -10,8 +10,6 @@ Favorite 3D game art/graphics(s) : The Witcher 3 (not actually playing the game,
 
 Favorite game world/map(s) : Shadow Of The Colossus's forbidden land
 
-Favorite game idea reference(s) : classic GameHouse games, DoTA 2 skills (you can get lots of ideas for a mechanic in a game just by looking at DoTA 2 hero's skills)
-
 Favorite game dev YouTuber(s) : Thomas Brush
 
 Favorite gaming YouTuber(s) : jacksepticeye
@@ -24,7 +22,7 @@ Favorite RPG spell(s) : Heal
 
 Favorite magic element(s) : Light
 
-Favorite place in RPG game(s) : Gothic-like castle
+Favorite fantasy places(s) : Gothic-like castle
 
 Favorite FPS weapon(s) : Assault rifle
 
@@ -39,9 +37,9 @@ Favorite metal song(s) : DragonForce - Black Winter Night, A7X - MIA, Norther - 
 
 Favorite japanese metal song(s) : Cross Vein - Brilliant Star, Matenrou Opera - Pantheon Pt.2, Tears Of Tragedy - Void Act
 
-Favorite guitar riff(s) : Arch Enemy - Enemy Within, A7X - Unholy Confessions, In Flames - Jotun
+Favorite guitar riff(s) : Arch Enemy - Enemy Within, In Flames - Jotun, A7X - The Stage
 
-Favorite guitar solo(s) : A7X - MIA, Galneryus - Raise My Sword (I think every A7X solo is exceptionally great --it really takes you to another world--, but I will just put the best (MIA) here)
+Favorite guitar solo(s) : A7X - MIA, Galneryus - Raise My Sword, Cross Vein - Graceful Gate (I think every A7X solo is exceptionally great --it really takes you to another world--, but I will just put the best (MIA) here)
 
 Favorite rock band(s) : Muse, Green Day
 
