@@ -57,7 +57,7 @@ Favorite K-Pop Group(s) : GFRIEND, Red Velvet
 
 Favorite K-Pop Idol(s) : JiU (Dreamcatcher), Seulgi (Red Velvet), V (BTS)
 
-Favorite K-Pop Song(s) : GFRIEND - Sunrise, Dreamcatcher - Full Moon, TWICE - Fancy, Red Velvet - Peek-A-Boo -- (just found out that K-Pop turned out to be very addicting)
+Favorite K-Pop Song(s) : GFRIEND - Memoria, Dreamcatcher - Full Moon, TWICE - Fancy, Red Velvet - Peek-A-Boo -- (just found out that K-Pop turned out to be very addicting)
 
 Favorite AKB48 Idol(s) : Shimazaki Haruka (former), Kojima Haruna (former)
 
