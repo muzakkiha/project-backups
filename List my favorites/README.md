@@ -26,7 +26,7 @@ Favorite fantasy places(s) : Gothic-like castle
 
 Favorite FPS weapon(s) : Assault rifle
 
-# Music
+# Music - See my playlists at bit.ly/spotiMuzakkiha
 Favorite metal band(s) : Children Of Bodom, DragonForce
 
 Favorite metal guitarist(s) : Synyster Gates (A7X), Herman Li/Sam Totman (DragonForce), Hizaki (Jupiter/Versailles), Marty Friedman (former Megadeth)
@@ -43,7 +43,7 @@ Favorite guitar solo(s) : A7X - MIA, Galneryus - Raise My Sword, Cross Vein - Gr
 
 Favorite rock band(s) : Muse, Green Day
 
-Favorite rock song(s) : Muse - Map Of The Problematique, My Chemical Romance - The Only Hope For Me Is You, Arctic Monkeys - Mardy Bum, Muse - Dead Inside, Weezer - Hash Pipe
+Favorite rock song(s) : Muse - Map Of The Problematique, My Chemical Romance - The Only Hope For Me Is You, Muse - Dead Inside
 
 Favorite classic rock band(s) : Van Halen
 
