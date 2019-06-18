@@ -26,7 +26,7 @@ Favorite fantasy places(s) : Gothic-like castle
 
 Favorite FPS weapon(s) : Assault rifle
 
-# Music - See my playlists at bit.ly/spotiMuzakkiha
+# Music - see my playlists at bit.ly/spotiMuzakkiha
 Favorite metal band(s) : Children Of Bodom, DragonForce
 
 Favorite metal guitarist(s) : Synyster Gates (A7X), Herman Li/Sam Totman (DragonForce), Hizaki (Jupiter/Versailles), Marty Friedman (former Megadeth)
