@@ -53,7 +53,7 @@ Favorite Indonesian band(s) : J-Rocks, Vierra
 
 Favorite Indonesian song(s) : Andra & The Backbone - Lagi Dan Lagi, Andra & The Backbone - Tunggu Aku, Cherrybelle - Love Is You, Vierra - Kesepian, Ratu - Dear Diary
 
-Favorite K-Pop Group(s) : GFRIEND, Red Velvet
+Favorite K-Pop Group(s) : Dreamcatcher, GFRIEND
 
 Favorite K-Pop Idol(s) : JiU (Dreamcatcher), Seulgi (Red Velvet), V (BTS)
 
