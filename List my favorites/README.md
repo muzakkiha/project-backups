@@ -35,7 +35,7 @@ Favorite metal YouTuber(s) : Charlie Parra Del Riego
 
 Favorite metal song(s) : DragonForce - Black Winter Night, A7X - MIA, Norther - A Fallen Star, Megadeth - Addicted To Chaos, Arch Enemy - Enemy Within
 
-Favorite japanese metal song(s) : Cross Vein - Brilliant Star, Matenrou Opera - Pantheon Pt.2, Tears Of Tragedy - Void Act
+Favorite japanese metal song(s) : Cross Vein - Brilliant Star, Matenrou Opera - Pantheon Pt.2, Tears Of Tragedy - Void Act, Skywings - Eternal Memory
 
 Favorite guitar riff(s) : Arch Enemy - Enemy Within, In Flames - Jotun, A7X - The Stage
 
@@ -43,7 +43,7 @@ Favorite guitar solo(s) : A7X - MIA, Galneryus - Raise My Sword, Cross Vein - Gr
 
 Favorite rock band(s) : Muse, Green Day
 
-Favorite rock song(s) : Muse - Map Of The Problematique, My Chemical Romance - The Only Hope For Me Is You, Muse - Dead Inside
+Favorite rock song(s) : Muse - Butterflies And Hurricanes, My Chemical Romance - The Only Hope For Me Is You, Muse - Resistance
 
 Favorite classic rock band(s) : Van Halen
 
